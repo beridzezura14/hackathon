@@ -1,0 +1,7 @@
+@media(max-width: 700px){
+    .form-first, .form-second{
+        max-width: 90%;
+        padding: 4rem 2rem;
+    }
+
+}
